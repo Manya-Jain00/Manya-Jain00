@@ -33,4 +33,4 @@ Final-year Computer Science student at **Jaypee Institute of Information Technol
 
 ## 📫 Reach me
 
-[Email](mailto:manyajain301@gmail.com) · [LinkedIn](#) <!-- replace # with your LinkedIn URL -->
+[Email](mailto:manyajain301@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manya-jain-7b6b92287/) · [GitHub](https://github.com/Manya-Jain00)
